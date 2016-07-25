@@ -1,5 +1,6 @@
 /**
 *TEST Gianni
+*MODIF Simon
 * create event in calendar defined by calendarId
 *
 *<pre>
